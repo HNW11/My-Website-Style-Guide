@@ -68,6 +68,43 @@ h2{
     color: #ffffff
 }
 
+/*fonts*/
+
+#first{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#second{
+    font-family: 'open sans';
+}
+
+#third{
+    font-family: 'public sans';
+}
+
+.roboto-examples{
+    font-family: 'Roboto', sans-serif;
+    line-height: 3;
+    font-size: 30px;
+    list-style: none
+
+}
+
+.open-examples{
+    font-family: 'open Sans', sans-serif;
+    line-height: 3;
+    font-size: 30px;
+    list-style: none
+}
+
+.public-examples{
+    font-family: 'public sans', sans-serif;
+    line-height: 3;
+    font-size: 30px;
+    list-style: none
+}
+
 .regular{
     font-weight: 400px
 }
@@ -87,8 +124,29 @@ h2{
 
 .font{
     text-decoration: underline;
+    font-size: 40px;
+    margin-left: 10px;
 }
 
+.desc{
+    font-family: 'public sans';
+    font-size: 20px;
+}
 
-/*Color Sytling*/
+#main{
+    text-align: left;
+}
 
+#sub{
+    text-align: left;
+}
+
+#para{
+    font-weight: 400px;
+    font-size: 18px;
+    font-family: 'public sans';
+}
+
+.text{
+    margin-left: 10px;
+}
