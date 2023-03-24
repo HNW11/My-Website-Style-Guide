@@ -1,0 +1,94 @@
+/*Overall*/
+
+h1{
+    font-family: "roboto";
+    font-size: 200px;
+    text-align: center;
+    font-weight: 700;
+}
+
+h2{
+    font-family: 'public sans';
+    font-weight: 700px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.container{
+    border: 1px solid #000000;
+    margin-top: 20px;
+}
+
+/*colors*/
+.color-panel{
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+    margin: 20px 50px;
+    padding: 5px;
+    min-height: 100px;
+    font-family: 'public sans';
+}
+
+.color-label{
+    font-size: 30px;
+}
+
+.hex-code{
+    font-size: 15px;
+}
+
+.slate-blue{
+    background-color: #3668AC;
+    color: #ffffff;
+}
+
+.dark-blue{
+    background-color: #003A77;
+    color: #ffffff
+}
+
+.light-blue{
+    background-color: #B6DCFF;
+    color: #ffffff
+}
+
+.dark-gray{
+    background-color: #414756;
+    color: #ffffff
+}
+
+.light-gray{
+    background-color: #8d98b5;
+    color:#ffffff
+}
+
+.black{
+    background-color: #000000;
+    color: #ffffff
+}
+
+.regular{
+    font-weight: 400px
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.examples{
+    line-height: 3;
+    list-style: none;
+}
+
+.font{
+    text-decoration: underline;
+}
+
+
+/*Color Sytling*/
+
